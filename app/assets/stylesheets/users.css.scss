@@ -1,0 +1,14 @@
+.avatar-show-img {
+    width: 120px;
+    height: 120px;
+}
+
+.well.profile-block {
+    color: #000022;
+    h3 {
+        margin-top: 0;
+    }
+    background: #CC95C0;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #7AA1D2, #DBD4B4, #CC95C0);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #7AA1D2, #DBD4B4, #CC95C0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
