@@ -1,6 +1,6 @@
 .avatar-show-img {
-    width: 120px;
-    height: 120px;
+    width: 128px;
+    height: 128px;
 }
 
 .well.profile-block {
@@ -22,4 +22,15 @@
     background-color: #337ab7;
     color: white;
     text-align: center;
+}
+
+// User index page styles
+.user-index-avatar {
+    width: 128px;
+    height: 128px;
+    border-radius: 50%;
+}
+
+.well.blue-bg {
+    background-color: #337ab7;
 }
